@@ -1,7 +1,7 @@
+# !/usr/bin/env python
+
 from functools import reduce
 from operator import mul
-
-# !/usr/bin/env python
 
 total = 0
 
